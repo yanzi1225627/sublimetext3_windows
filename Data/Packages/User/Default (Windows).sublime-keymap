@@ -1,3 +1,4 @@
 [
-	{"keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"}}
+	{"keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"}},
+		{ "keys": ["f1"], "command": "toggle_side_bar" }
 ]
