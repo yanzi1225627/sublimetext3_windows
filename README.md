@@ -1,10 +1,9 @@
 ## 简介
-本仓库放的是Windows(64位)平台SublimeText3官方下载后，安装一些插件的版本.
+本仓库放的是Windows(64位)平台SublimeText3官方下载后，安装一些插件的版本,安装过程见博客[http://blog.csdn.net/yanzi1225627/article/details/54881235](http://blog.csdn.net/yanzi1225627/article/details/54881235).
 
 ## 更新记录
 ### 2017.1.25
-初次提交，相比官方解压缩后，增加的文件有:
-1. 注册码文件
+初次提交，相比官方解压缩后，增加了注册码文件：
 
 ```
 —– BEGIN LICENSE —–
@@ -21,18 +20,19 @@ FCCC7561 8A4A1741 68FA4223 ADCEDE07
 0FEC1CEF D9DCECEC D3A5DAD1 01316C36
 —— END LICENSE ——
 ```
-2. PackageControl 插件
-3. GBK Support插件
-4. ConvertToUTF8插件
-5. MarkdownPreview插件
-6. MarkdownEdit插件
-7. PlainTasks插件
-8. Emmet插件
-9. JSFormat插件
-10. SideBarEnhancement插件
-11. SODA 主题插件
+安装的插件有:
+1. PackageControl 插件
+2. GBK Support插件
+3. ConvertToUTF8插件
+4. MarkdownPreview插件
+5. MarkdownEdit插件
+6. PlainTasks插件
+7. Emmet插件
+8. JSFormat插件
+9. SideBarEnhancement插件
+10. SODA 主题插件
 
 ### 2017.2.5
 1. 设置f1快捷键打开关闭sidebar
-2. 修改PlainTask的主题
+2. 修改PlainTasks的主题
 3. 清除最近列表缓存
