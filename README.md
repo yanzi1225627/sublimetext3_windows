@@ -36,3 +36,7 @@ FCCC7561 8A4A1741 68FA4223 ADCEDE07
 1. 设置f1快捷键打开关闭sidebar
 2. 修改PlainTasks的主题
 3. 清除最近列表缓存
+
+### 2017.3.26
+1. 删除掉SODA 主题插件
+2. 使用[MateriaTheme](https://github.com/equinusocio/material-theme),添加[A File Icon](https://github.com/ihodev/a-file-icon)、[Material Theme Appbar](https://github.com/equinusocio/material-theme-appbar)
