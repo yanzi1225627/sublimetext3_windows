@@ -1,9 +1,20 @@
 {
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_size": 20,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "SoDaReloaded Light.sublime-theme"
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_accent_acid-lime": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme"
 }

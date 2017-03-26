@@ -1,9 +1,10 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Administrator/Desktop/快捷方式"
 	],
 	"last_version": 3126,
-	"last_window_id": 11,
+	"last_window_id": 17,
 	"log_indexing": false,
 	"settings":
 	{
@@ -22,8 +23,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 110.0,
-				"last_filter": "",
+				"height": 230.0,
+				"last_filter": "install",
 				"selected_items":
 				[
 					[
@@ -35,7 +36,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 386.0
+				"width": 382.0
 			},
 			"console":
 			{
@@ -55,25 +56,11 @@
 			},
 			"file_history":
 			[
-				"/C/Users/yanzi/Desktop/2.md",
-				"/E/work/Sublime Text Build 3126 x64/Data/Packages/PlainTasks/messages/Tutorial.todo",
-				"/C/Users/yanzi/Desktop/1.todo",
-				"/E/work/Sublime Text Build 3126 x64/Data/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
-				"/E/work/Sublime Text Build 3126 x64/Data/Packages/User/PlainTasks.sublime-settings",
-				"/C/Users/yanzi/Desktop/2.todo",
-				"/C/Users/yanzi/Desktop/11.md",
-				"/C/Users/yanzi/Desktop/2.c",
-				"/C/Users/yanzi/Desktop/1.txt",
-				"/E/work/Sublime Text Build 3126 x64/Data/Packages/User/Markdown.sublime-settings",
-				"/C/Users/yanzi/Desktop/1.html",
-				"/C/Users/yanzi/Desktop/1.md",
-				"/E/work/Sublime Text Build 3126 x64/Data/Packages/User/MarkdownPreview.sublime-settings",
-				"/C/Users/yanzi/Desktop/1.c",
-				"/E/work/Sublime Text Build 3126 x64/Data/Packages/MarkdownEditing/Markdown.sublime-settings"
+				"/D/work/git/sublimetext3_windows/Data/Packages/Default/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 50.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
@@ -103,7 +90,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 45.0
 			},
 			"input":
 			{
@@ -117,7 +104,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -150,7 +137,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": true,
+			"side_bar_visible": false,
 			"side_bar_width": 216.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -178,10 +165,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 110.0,
-				"last_filter": "install",
+				"height": 230.0,
+				"last_filter": "remove",
 				"selected_items":
 				[
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -191,7 +182,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 418.0
+				"width": 382.0
 			},
 			"console":
 			{
@@ -211,10 +202,12 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Administrator/Desktop/快捷方式/1.todo",
+				"/D/work/git/sublimetext3_windows/Data/Packages/Default/Preferences.sublime-settings"
 			],
 			"find":
 			{
-				"height": 50.0
+				"height": 45.0
 			},
 			"find_in_files":
 			{
@@ -252,7 +245,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 40.0
+				"height": 45.0
 			},
 			"input":
 			{
@@ -286,11 +279,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,585,103,47,759",
+			"position": "0,2,3,-1,-1,-1,-1,688,150,150,806",
 			"project": "",
 			"replace":
 			{
-				"height": 76.0
+				"height": 86.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -333,7 +326,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 17,
 			"workspace_name": ""
 		}
 	],

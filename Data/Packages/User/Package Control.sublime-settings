@@ -5,15 +5,17 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"ConvertToUTF8",
 		"Emmet",
 		"GBK Support",
 		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"PlainTasks",
-		"SideBarEnhancements",
-		"Theme - SoDaReloaded"
+		"SideBarEnhancements"
 	]
 }
